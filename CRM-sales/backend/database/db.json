@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": "umfedrbtyr4sc3",
+      "name": "Virat Kohli",
+      "email": "virat@test.com",
+      "password": "$2a$10$Xyo2uVfxjYCtbz1yfgvCleR4CZ1RSfur54pyQAKsFRgKpTD1gpKiO",
+      "role": "rep",
+      "createdAt": "2025-09-10T19:36:21.670Z"
+    },
+    {
+      "id": "umfedrxkthshpn",
+      "name": "MS Dhoni",
+      "email": "dhoni@test.com",
+      "password": "$2a$10$KD5nYzS0z6AI01H/4PXusubva79XX6PYDit.yfNzWxx50BPScqUVC",
+      "role": "manager",
+      "createdAt": "2025-09-10T19:36:49.853Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "lmfedtoj5n2ngt",
+      "name": "Rohit Sharma",
+      "email": "rohit@client.com",
+      "phone": "9876543210",
+      "company": "Mumbai Indians",
+      "status": "Contacted",
+      "ownerId": "umfedrbtyr4sc3",
+      "createdAt": "2025-09-10T19:38:11.441Z",
+      "updatedAt": "2025-09-10T19:38:11.441Z"
+    },
+    {
+      "id": "lmfeduazl17wwr",
+      "name": "Jasprit Bumrah",
+      "email": "bumrah@mi.com",
+      "phone": "2222222222",
+      "company": "Mumbai Indians",
+      "status": "New",
+      "ownerId": "umfedrbtyr4sc3",
+      "createdAt": "2025-09-10T19:38:40.546Z",
+      "updatedAt": "2025-09-10T22:05:01.407Z"
+    },
+    {
+      "id": "lmfedx0fo9rwcd",
+      "name": "Rohit Sharma",
+      "email": "rohit@client.com",
+      "phone": "9876543210",
+      "company": "Mumbai Indians",
+      "status": "Contacted",
+      "ownerId": "umfedbcpseyjji",
+      "createdAt": "2025-09-10T19:40:46.836Z",
+      "updatedAt": "2025-09-10T22:07:25.904Z"
+    },
+    {
+      "id": "lmfee0m4n4uph0",
+      "name": "Jasprit Bumrah",
+      "email": "bumrah@mi.com",
+      "phone": "2222222222",
+      "company": "Mumbai Indians",
+      "status": "New",
+      "ownerId": "umfedbcpseyjji",
+      "createdAt": "2025-09-10T19:43:34.919Z",
+      "updatedAt": "2025-09-10T19:43:34.919Z"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "omfedxsg1a3zin",
+      "title": "CSK Championship Deal",
+      "value": 2500000,
+      "stage": "Proposal",
+      "ownerId": "umfedc65te6vav",
+      "leadId": "lmfedx0fo9rwcd",
+      "createdAt": "2025-09-10T19:41:23.137Z",
+      "updatedAt": "2025-09-10T19:41:23.137Z"
+    },
+    {
+      "id": "omfee0w6pdzujw",
+      "title": "World Cup Sponsorship",
+      "value": 5000000,
+      "stage": "Discovery",
+      "ownerId": "umfedc65te6vav",
+      "leadId": "lmfee0m4n4uph0",
+      "createdAt": "2025-09-10T19:43:47.953Z",
+      "updatedAt": "2025-09-10T19:43:47.953Z"
+    },
+    {
+      "id": "omfeef6lyymu4v",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T19:54:54.646Z",
+      "updatedAt": "2025-09-10T19:54:54.646Z"
+    },
+    {
+      "id": "omfeeg20t7zcvk",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T19:55:35.357Z",
+      "updatedAt": "2025-09-10T19:55:35.357Z"
+    },
+    {
+      "id": "omfeekkb036ddj",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T19:59:05.676Z",
+      "updatedAt": "2025-09-10T19:59:05.676Z"
+    },
+    {
+      "id": "omfeem04w3jt9g",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:00:12.848Z",
+      "updatedAt": "2025-09-10T20:00:12.848Z"
+    },
+    {
+      "id": "omfeev42b7f9e5",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:07:17.843Z",
+      "updatedAt": "2025-09-10T20:07:17.843Z"
+    },
+    {
+      "id": "omfeevorkw29k4",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:07:44.672Z",
+      "updatedAt": "2025-09-10T20:07:44.672Z"
+    },
+    {
+      "id": "omfeevud0dyocp",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:07:51.924Z",
+      "updatedAt": "2025-09-10T20:07:51.924Z"
+    },
+    {
+      "id": "omfeexpgmbhjm8",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:09:18.886Z",
+      "updatedAt": "2025-09-10T20:09:18.886Z"
+    },
+    {
+      "id": "omfeez6zg0kb1z",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrbtyr4sc3",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:10:28.253Z",
+      "updatedAt": "2025-09-10T20:10:28.253Z"
+    },
+    {
+      "id": "omfef2s5pptu02",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrbtyr4sc3",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:13:15.661Z",
+      "updatedAt": "2025-09-10T20:13:15.661Z"
+    },
+    {
+      "id": "omfef5jxqqc4he",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:15:24.974Z",
+      "updatedAt": "2025-09-10T20:15:24.974Z"
+    },
+    {
+      "id": "omfef5xwwpne29",
+      "title": "Enterprise Deal",
+      "value": 50000,
+      "stage": "Discovery",
+      "ownerId": "umfedrxkthshpn",
+      "leadId": null,
+      "createdAt": "2025-09-10T20:15:43.088Z",
+      "updatedAt": "2025-09-10T20:15:43.088Z"
+    },
+    {
+      "id": "omfej2icgzkpcw",
+      "title": "Jasprit Bumrah - Opportunity",
+      "value": 10000,
+      "stage": "Discovery",
+      "ownerId": "umfedrbtyr4sc3",
+      "leadId": "lmfeduazl17wwr",
+      "createdAt": "2025-09-10T22:05:01.408Z",
+      "updatedAt": "2025-09-10T22:05:01.408Z"
+    }
+  ]
+}

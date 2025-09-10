@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "John Rep",
+      "email": "rep@test.com",
+      "password": "$2b$10$8K1p/a1dqNvkCx0K8v8vSu8l6q5J5K5N5v8v8v8v8v8v8v8v8v8v8",
+      "role": "rep",
+      "createdAt": "2024-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "u2",
+      "name": "Sarah Manager",
+      "email": "manager@test.com",
+      "password": "$2b$10$8K1p/a1dqNvkCx0K8v8vSu8l6q5J5K5N5v8v8v8v8v8v8v8v8v8v8",
+      "role": "manager",
+      "createdAt": "2024-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "u3",
+      "name": "Admin User",
+      "email": "admin@test.com",
+      "password": "$2b$10$8K1p/a1dqNvkCx0K8v8vSu8l6q5J5K5N5v8v8v8v8v8v8v8v8v8v8",
+      "role": "admin",
+      "createdAt": "2024-01-01T10:00:00.000Z"
+    }
+  ],
+  "leads": [],
+  "opportunities": []
+}
